@@ -1,0 +1,28 @@
+.row img {
+    padding: 20px;
+}
+
+.social a i {
+    font-size: 3rem;
+    margin: 20px;
+}
+
+.social p {
+    font-size: 30px;
+}
+
+.rows a {
+    color: aliceblue;
+}
+
+.row ul li {
+    padding: 10px;
+}
+
+.row {
+    padding: 20px;
+}
+
+.row h3 {
+    margin-left: 20px;
+}
